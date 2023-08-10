@@ -4,11 +4,7 @@ name: Bug Report
 ---
 
 ### Summary of Problem
-<!--
-What behavior did you observe when encountering this issue?
-What behavior did you expect to observe?
-Is this a blocking issue with no known work-arounds?
--->
+
 
 ### Steps to Reproduce
 
@@ -24,17 +20,11 @@ Is this a blocking issue with no known work-arounds?
 ```
 
 **Compile command:**
-<!-- e.g. `chpl foo.chpl` -->
 
 **Execution command:**
-<!-- e.g. `./foo -nl 4`
-If an input file is required, include it as well. -->
 
 **Associated Future Test(s):**
-<!-- Are there any tests in Chapel's test system that demonstrate this issue?
-     e.g. [`test/path/to/foo.chpl`](
-           https://github.com/chapel-lang/chapel/blob/main/test/path/to/foo.chpl
-          ) #1234 -->
+
 
 ### Configuration Information
 
