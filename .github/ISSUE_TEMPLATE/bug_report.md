@@ -1,6 +1,6 @@
 ---
 name: Bug Report
-about: Report a bug to allow us to fix it.
+about: Report a bug and we will do our best to fix it.
 title: ''
 labels: ''
 ---
