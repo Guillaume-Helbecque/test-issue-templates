@@ -1,9 +1,8 @@
 ---
 name: Bug Report
-about: Create a report to help us improve
+about: Report a bug to allow us to fix it.
 title: ''
-labels: 'bug'
-assignees: ''
+labels: ''
 ---
 
 ### Summary of Problem
@@ -12,6 +11,11 @@ What behavior did you observe when encountering this issue?
 What behavior did you expect to observe?
 Is this a blocking issue with no known work-arounds?
 -->
+
+**Is it a blocker for you?**
+- [ ] Yes
+- [ ] No
+- [ ] Will be in the future
 
 ### Steps to Reproduce
 
