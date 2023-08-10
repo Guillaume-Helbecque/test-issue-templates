@@ -1,3 +1,7 @@
+---
+name: Bug Report
+---
+
 ### Summary of Problem
 <!--
 What behavior did you observe when encountering this issue?
