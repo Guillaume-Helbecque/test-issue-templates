@@ -1,11 +1,12 @@
 name: Blank issue
 description: Open a blank issue.
-title:
-labels:
+title: ""
+labels: ""
 
 body:
   - type: textarea
     id: description
     attributes:
+      label: Description
       placeholder: |
         Add your description here...
