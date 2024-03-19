@@ -6,19 +6,15 @@ labels: 'type: Performance'
 ---
 
 ### Summary of Problem
+
+**Description:**
 <!--
 What behavior did you observe when encountering this issue?
 What behavior did you expect to observe?
-Is this a blocking issue with no known work-arounds?
 -->
 
-**Is it a blocker for you?**
-<!--
-Tick putting 'x' inside the box.
--->
-- [ ] Yes
-- [ ] No
-- [ ] Will be in the future
+**Is this a blocking issue with no known work-arounds?**
+<!-- Answer 'yes', 'no' or 'I don't know'. -->
 
 ### Steps to Reproduce
 
@@ -36,19 +32,22 @@ Tick putting 'x' inside the box.
 **Compile command:**
 <!-- e.g. `chpl foo.chpl` -->
 
-Compiled with the `--fast` optimization flag enabled:
-- [ ] Yes
-- [ ] No
+Did you compile with the `--fast` optimization flag enabled?
+<!-- Answer 'yes' or 'no'. -->
 
 **Execution command:**
-<!-- e.g. `./foo -nl 4`
-If an input file is required, include it as well. -->
+<!--
+e.g. `./foo -nl 4`
+If an input file is required, include it as well.
+-->
 
 **Associated Future Test(s):**
-<!-- Are there any tests in Chapel's test system that demonstrate this issue?
-     e.g. [`test/path/to/foo.chpl`](
-           https://github.com/chapel-lang/chapel/blob/main/test/path/to/foo.chpl
-          ) #1234 -->
+<!--
+Are there any tests in Chapel's test system that demonstrate this issue?
+e.g. [`test/path/to/foo.chpl`](
+      https://github.com/chapel-lang/chapel/blob/main/test/path/to/foo.chpl
+      ) #1234 
+-->
 
 ### Configuration Information
 
