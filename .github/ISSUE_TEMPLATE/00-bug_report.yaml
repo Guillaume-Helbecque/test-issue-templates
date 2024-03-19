@@ -47,7 +47,7 @@ body:
         // problem will be appreciated.
         // You can also replace this section with "Associated Future Test(s)" below.
 
-  - type: textarea
+  - type: input
     id: compile-command
     attributes:
       label: Compile command
@@ -55,7 +55,7 @@ body:
       placeholder: |
         e.g. `chpl foo.chpl`
 
-  - type: textarea
+  - type: input
     id: execution-command
     attributes:
       label: Execution command
