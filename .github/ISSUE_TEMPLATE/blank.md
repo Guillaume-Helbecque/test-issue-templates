@@ -1,6 +1,6 @@
 ---
-name: Blank
-about: Report a bug and we will do our best to fix it.
+name: Blank issue
+about: Open a blank issue.
 title: ''
 labels: ''
 ---
