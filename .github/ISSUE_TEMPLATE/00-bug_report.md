@@ -1,7 +1,7 @@
 ---
 name: Bug Report
 about: Report a bug and we will do our best to fix it.
-title: ''
+title: '[Bug]: '
 labels: ''
 ---
 

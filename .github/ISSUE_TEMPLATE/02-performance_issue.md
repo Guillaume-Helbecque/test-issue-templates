@@ -1,7 +1,7 @@
 ---
 name: Performance issue
 about: Report any performance issue observed within your code.
-title: ''
+title: '[Performance]: '
 labels: ''
 ---
 
