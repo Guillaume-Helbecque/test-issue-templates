@@ -7,7 +7,6 @@ body:
   - type: markdown
     attributes:
       value: "### Summary of Problem"
-    visible: [form, content]
 
   - type: textarea
     id: description
@@ -34,7 +33,6 @@ body:
   - type: markdown
     attributes:
       value: "### Steps to Reproduce"
-    visible: [form, content]
 
   - type: textarea
     id: code
@@ -80,7 +78,6 @@ body:
   - type: markdown
     attributes:
       value: "### Configuration Information"
-    visible: [form, content]
 
   - type: textarea
     id: configuration
