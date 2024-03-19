@@ -16,8 +16,8 @@ Describe alternatives you've considered
 <!--
 Tick putting 'x' inside the box.
 -->
-- [ ] Yes
-- [ ] No
-- [ ] Will be in the future
+* [ ] Yes
+* [ ] No
+* [ ] Will be in the future
 
 ### Code sample
