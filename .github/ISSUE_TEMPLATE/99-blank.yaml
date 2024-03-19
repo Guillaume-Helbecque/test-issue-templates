@@ -1,7 +1,5 @@
 name: Blank issue
 description: Open a blank issue.
-title: ""
-labels: ""
 
 body:
   - type: textarea
