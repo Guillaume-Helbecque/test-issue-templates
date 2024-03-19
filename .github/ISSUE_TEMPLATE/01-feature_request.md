@@ -16,8 +16,7 @@ Describe alternatives you've considered
 <!--
 Tick putting 'x' inside the box.
 -->
-* [ ] Yes
-* [ ] No
-* [ ] Will be in the future
+<li>[x] yes</li>
+<li>[ ] no</li>
 
 ### Code sample
