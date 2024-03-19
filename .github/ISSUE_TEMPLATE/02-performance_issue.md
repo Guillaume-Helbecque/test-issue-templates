@@ -32,7 +32,7 @@ What behavior did you expect to observe?
 **Compile command:**
 <!-- e.g. `chpl foo.chpl` -->
 
-Did you compile with the `--fast` optimization flag enabled?
+`--fast` optimization flag enabled?
 <!-- Answer 'yes' or 'no'. -->
 
 **Execution command:**
@@ -46,7 +46,7 @@ If an input file is required, include it as well.
 Are there any tests in Chapel's test system that demonstrate this issue?
 e.g. [`test/path/to/foo.chpl`](
       https://github.com/chapel-lang/chapel/blob/main/test/path/to/foo.chpl
-      ) #1234 
+      ) #1234
 -->
 
 ### Configuration Information

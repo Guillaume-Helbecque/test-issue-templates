@@ -1,6 +1,6 @@
 ---
 name: Feature request
-about: Request a feature for the project.
+about: Request for any feature you'd Chapel to support.
 title: '[Feature Request]: '
 labels: 'type: Feature Request'
 ---
