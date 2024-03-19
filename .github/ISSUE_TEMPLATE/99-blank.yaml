@@ -6,5 +6,6 @@ body:
     id: description
     attributes:
       label: Description
+      render: true
       placeholder: |
         Add your description here...
