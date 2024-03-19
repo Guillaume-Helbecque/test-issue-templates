@@ -1,5 +1,5 @@
 name: Bug Report
-about: Report a bug and we will do our best to fix it.
+description: Report a bug and we will do our best to fix it.
 title: '[Bug]: '
 labels: 'type: Bug'
 
