@@ -2,7 +2,7 @@
 name: Feature request
 about: Request a feature for the project.
 title: '[Feature request]: '
-labels: ''
+labels: 'type: Feature Request'
 ---
 
 ### Description of the feature

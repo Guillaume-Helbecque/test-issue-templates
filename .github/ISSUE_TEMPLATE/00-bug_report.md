@@ -2,7 +2,7 @@
 name: Bug Report
 about: Report a bug and we will do our best to fix it.
 title: '[Bug]: '
-labels: ''
+labels: 'type: Bug'
 ---
 
 ### Summary of Problem
