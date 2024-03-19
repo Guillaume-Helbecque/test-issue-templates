@@ -1,6 +1,7 @@
 name: Test issue template in YAML format
 description: Test issue template in YAML format
 title: "[YAML format]: "
+labels: 'type: YAML'
 
 body:
   - type: dropdown
