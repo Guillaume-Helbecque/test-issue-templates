@@ -1,5 +1,5 @@
-name: Test
-description: test
+name: Test issue template in YAML format
+description: Test issue template in YAML format
 
 body:
   - type: dropdown
