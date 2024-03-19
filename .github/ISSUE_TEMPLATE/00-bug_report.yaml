@@ -51,7 +51,6 @@ body:
     id: compile-command
     attributes:
       label: Compile command
-      render: true
       placeholder: |
         e.g. `chpl foo.chpl`
 
@@ -59,7 +58,6 @@ body:
     id: execution-command
     attributes:
       label: Execution command
-      render: true
       placeholder: |
         e.g. `./foo -nl 4`
         If an input file is required, include it as well.
