@@ -30,8 +30,8 @@ body:
       required: true
 
   - type: markdown
-      attributes:
-        value: "### Steps to Reproduce"
+    attributes:
+      value: "### Steps to Reproduce"
 
   - type: textarea
     id: code
@@ -72,8 +72,8 @@ body:
               ) #1234
 
   - type: markdown
-      attributes:
-        value: "### Configuration Information"
+    attributes:
+      value: "### Configuration Information"
 
   - type: textarea
     id: configuration
