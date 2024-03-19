@@ -3,5 +3,9 @@ description: Open a blank issue.
 title:
 labels:
 
-body: |
-  Add your description here...
+body:
+  - type: textarea
+    id: description
+    attributes:
+      placeholder: |
+        Add your description here...
