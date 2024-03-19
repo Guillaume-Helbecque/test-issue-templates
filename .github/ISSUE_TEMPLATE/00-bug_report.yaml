@@ -12,6 +12,7 @@ body:
     id: description
     attributes:
       label: Description
+      render: true
       placeholder: |
         What behavior did you observe when encountering this issue?
         What behavior did you expect to observe?
@@ -50,6 +51,7 @@ body:
     id: compile-command
     attributes:
       label: Compile command
+      render: true
       placeholder: |
         e.g. `chpl foo.chpl`
 
