@@ -26,7 +26,6 @@ What behavior did you expect to observe?
 // Otherwise, you can attach it as a file or provide a URL to it.
 // To the extent possible, providing simplified programs demonstrating the
 // problem will be appreciated.
-// You can also replace this section with "Associated Future Test(s)" below.
 ```
 
 **Compile command:**
@@ -39,14 +38,6 @@ What behavior did you expect to observe?
 <!--
 e.g. `./foo -nl 4`
 If an input file is required, include it as well.
--->
-
-**Associated Future Test(s):**
-<!--
-Are there any tests in Chapel's test system that demonstrate this issue?
-e.g. [`test/path/to/foo.chpl`](
-      https://github.com/chapel-lang/chapel/blob/main/test/path/to/foo.chpl
-      ) #1234
 -->
 
 ### Configuration Information

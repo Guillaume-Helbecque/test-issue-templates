@@ -5,7 +5,7 @@ title: '[Feature Request]: '
 labels: 'type: Feature Request'
 ---
 
-### Description of Feature
+### Summary of Feature
 
 **Description:**
 <!--
