@@ -42,9 +42,9 @@ e.g. [`test/path/to/foo.chpl`](
 
 ### Configuration Information
 
-- Output of `chpl --version`:
+- Output of `chpldoc --version`:
 - Output of `$CHPL_HOME/util/printchplenv --anonymize`:
 - Back-end compiler and version, e.g. `gcc --version` or `clang --version`:
-- Output of `c`:
-
+- Sphinx version:
+- sphinxcontrib-chapeldomain version:
 - (For Cray systems only) Output of `module list`:
